@@ -45,7 +45,7 @@ int main()
             cout << "December";
             break;
         }
-        cin.get();
+        system("pause");
         return 0;
 
 }
