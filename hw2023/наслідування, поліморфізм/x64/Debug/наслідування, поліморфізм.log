@@ -1,0 +1,3 @@
+﻿  Source.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Admin\Desktop\repos\hw2023\насл?дування, пол?морф?зм\x64\Debug\насл?дування, пол?морф?зм.exe : fatal error LNK1120: 1 unresolved externals
