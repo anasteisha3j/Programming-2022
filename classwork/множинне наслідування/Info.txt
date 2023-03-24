@@ -1,0 +1,8 @@
+Boat 200 lake 150
+Submarine 1000 ocean 300
+Ship 900 sea 500
+van 70 none 120 6
+racecar 80 none 200 2
+Amphicar 90 lake 50 rock 100 5 120 300
+Watercar 100 pound 80 field 150 4 200 400
+
